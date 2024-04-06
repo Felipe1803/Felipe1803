@@ -1,7 +1,3 @@
-Com certeza, Felipe. Vou adicionar seu conhecimento em Google Cloud e seu e-mail ao README. Aqui está a versão atualizada:
-
----
-
 # Olá, sou Felipe Morente Carrasco da Costa! 👋
 
 Bem-vindo(a) ao meu perfil no GitHub! Sou um(a) Assistente de Suporte apaixonado(a) por tecnologia e sempre em busca de novos aprendizados. Atualmente, estou aprimorando minhas habilidades em várias tecnologias fundamentais para o desenvolvimento web e sistemas, incluindo HTML, CSS, Python, Java, MySQL, e também possuo conhecimento em Google Cloud. Estou sempre explorando novas ferramentas e técnicas para melhorar a qualidade do suporte que ofereço e para contribuir com projetos inovadores.
