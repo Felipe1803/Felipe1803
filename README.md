@@ -29,7 +29,7 @@ Atualmente, estou me aprofundando em Python e explorando frameworks web como Fla
 
 ## 📚 Interesses Pessoais
 
-Quando não estou trabalhando ou estudando tecnologia, gosto de me dedicar a hobbies que me permitem relaxar e me reconectar, como [inserir hobbies e interesses pessoais]. Acredito firmemente na importância de manter um equilíbrio saudável entre vida profissional e pessoal para promover o bem-estar e a criatividade.
+Quando não estou trabalhando ou estudando tecnologia, gosto de me dedicar a hobbies que me permitem relaxar e me reconectar, como Literatura e Videogames. Acredito firmemente na importância de manter um equilíbrio saudável entre vida profissional e pessoal para promover o bem-estar e a criatividade.
 
 ---
 
